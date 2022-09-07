@@ -181,7 +181,14 @@ http://150.138.8.143/00/SNM/CHANNEL00002013/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",巨野新闻高清
 http://150.138.8.143/00/SNM/CHANNEL00001046/index.m3u8
 
-
+#EXTINF:-1 group-title="动画" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png",CCTV-14少儿
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000323/index.m3u8
+#EXTINF:-1 group-title="动画",爱幼教
+http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000180630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=no
+#EXTINF:-1 group-title="IHOT",爱动漫
+http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=no
+#EXTINF:-1 group-title="动画",黑莓动画FHD
+http://39.134.66.66/PLTV/88888888/224/3221225529/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/aiyx.png" group-title="iHOT系列",iHOT爱院线
 http://111.11.123.49:6610/000000001000/6000000006000030630/1.m3u8?Contentid=6000000006000030630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/aikh.png" group-title="iHOT系列",iHOT爱科幻
