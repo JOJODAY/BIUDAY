@@ -137,19 +137,13 @@ http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL
 #EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png",黑龙江卫视
 http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000306/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png",凤凰卫视中文台
-http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png",凤凰卫视香港台
+http://[2409:8087:3869:8021:1001::e5]:6610/ysten-businessmobile/live/fhchinese/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png",凤凰卫视资讯台
-http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
+http://[2409:8087:3869:8021:1001::e5]:6610/ysten-businessmobile/live/fhzixun/index.m3u8
 #EXTINF:-1 group-title="卫视",山东教育卫视
 http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000331/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png",凤凰中文1
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png",凤凰中文2
-http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/test1_4000.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png",凤凰资讯1
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png",凤凰资讯2
-http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/test2_4000.m3u8
+
 
 #EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png",上海纪实人文
 http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000333/index.m3u8
@@ -214,8 +208,7 @@ http://39.134.66.66/PLTV/88888888/224/3221225559/index.m3u8
 http://39.134.66.66/PLTV/88888888/224/3221225681/index.m3u8
 #EXTINF:-1 group-title="影视记录" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png",纪实人文FHD
 http://39.134.66.66/PLTV/88888888/224/3221225673/index.m3u8
-#EXTINF:-1 group-title="影视记录",香港女神系列
-http://txtest-xp2p.p2p.huya.com/src/1388451591-1388451591-5963354175424167936-2777026638-10057-A-0-1.xs
+
 
 #EXTINF:-1 group-title="山东",临朐新闻综合
 http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001085/index.m3u8
