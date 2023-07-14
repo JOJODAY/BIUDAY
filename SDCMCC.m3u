@@ -45,6 +45,7 @@ http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
 http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg",CHC家庭电影
 http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
+
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png",CCTV风云音乐
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
 #EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="央视",CCTV风云剧场
@@ -83,6 +84,16 @@ http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL
 http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000354/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png",CGTN阿语
 http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000356/index.m3u8
+#EXTINF:-1 group-title="轮播" tvg-logo="",邵氏影院
+http://epg.112114.xyz/douyu/4246519
+#EXTINF:-1 group-title="轮播" tvg-logo="",女神金电影
+http://epg.112114.xyz/douyu/747764
+#EXTINF:-1 group-title="轮播" tvg-logo="",译制片
+http://epg.112114.xyz/douyu/2436390
+#EXTINF:-1 group-title="轮播" tvg-logo="",007系列
+http://epg.112114.xyz/douyu/9292499
+#EXTINF:-1 group-title="轮播" tvg-logo="",刘德华
+http://epg.112114.xyz/douyu/2516864
 #EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png",东南卫视
 http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000310/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png",东方卫视
