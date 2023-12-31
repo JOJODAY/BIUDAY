@@ -249,48 +249,92 @@ http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL
 http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001087/index.m3u8
 #EXTINF:-1 group-title="山东",巨野新闻
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001046/index.m3u8
-#EXTINF:-1 group-title="NEWTV",NewTV爱情喜剧
-http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
-#EXTINF:-1 group-title="NEWTV",NewTV超级电视剧
-http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8
-#EXTINF:-1 group-title="NEWTV",NewTV超级电影
-http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
-#EXTINF:-1 group-title="NEWTV",NewTV超级体育
-http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
-#EXTINF:-1 group-title="NEWTV",NewTV超级综艺
-http://39.134.66.66/PLTV/88888888/224/3221225642/index.m3u8
-#EXTINF:-1 group-title="NEWTV",NewTV潮妈辣婆
-http://39.134.66.66/PLTV/88888888/224/3221225542/index.m3u8
-#EXTINF:-1 group-title="NEWTV",NewTV东北热剧
-http://39.134.66.66/PLTV/88888888/224/3221225679/index.m3u8
-#EXTINF:-1 group-title="NEWTV",NewTV动作电影
-http://39.134.66.66/PLTV/88888888/224/3221225555/index.m3u8
-#EXTINF:-1 group-title="NEWTV",NewTV古装剧场
-http://39.134.66.66/PLTV/88888888/224/3221225524/index.m3u8
-#EXTINF:-1 group-title="NEWTV",NewTV家庭剧场
-http://39.134.66.66/PLTV/88888888/224/3221225538/index.m3u8
-#EXTINF:-1 group-title="NEWTV",NewTV金牌综艺
-http://39.134.66.66/PLTV/88888888/224/3221225525/index.m3u8
-#EXTINF:-1 group-title="NEWTV",NewTV精品大剧
-http://39.134.66.66/PLTV/88888888/224/3221225536/index.m3u8
-#EXTINF:-1 group-title="NEWTV",NewTV精品体育
-http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
-#EXTINF:-1 group-title="NEWTV",NewTV军旅剧场
-http://39.134.66.66/PLTV/88888888/224/3221225560/index.m3u8
-#EXTINF:-1 group-title="NEWTV",NewTV军事评论
-http://39.134.66.66/PLTV/88888888/224/3221225535/index.m3u8
-#EXTINF:-1 group-title="NEWTV",NewTV明星大片
-http://39.134.66.66/PLTV/88888888/224/3221225550/index.m3u8
-#EXTINF:-1 group-title="NEWTV",NewTV农业致富
-http://39.134.66.66/PLTV/88888888/224/3221225552/index.m3u8
-#EXTINF:-1 group-title="NEWTV",NewTV武搏世界
-http://39.134.66.66/PLTV/88888888/224/3221225547/index.m3u8
-#EXTINF:-1 group-title="NEWTV",NewTV炫舞未来
-http://39.134.66.66/PLTV/88888888/224/3221225646/index.m3u8
-#EXTINF:-1 group-title="NEWTV",NewTV怡伴健康
-http://39.134.66.66/PLTV/88888888/224/3221225571/index.m3u8
-#EXTINF:-1 group-title="NEWTV",NewTV中国功夫
-http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
+
+#EXTINF:-1 tvg-name="#EXTINF:-1 group-title="NEWTV"" tvg-logo="https://live.fanmingming.com/tv/#EXTINF:-1 group-title="NEWTV".png",#EXTINF:-1 group-title="NEWTV"
+NewTV爱情喜剧
+#EXTINF:-1 tvg-name="http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8" tvg-logo="https://live.fanmingming.com/tv/http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8.png",http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
+undefined
+#EXTINF:-1 tvg-name="#EXTINF:-1 group-title="NEWTV"" tvg-logo="https://live.fanmingming.com/tv/#EXTINF:-1 group-title="NEWTV".png",#EXTINF:-1 group-title="NEWTV"
+NewTV超级电视剧
+#EXTINF:-1 tvg-name="http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8" tvg-logo="https://live.fanmingming.com/tv/http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8.png",http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8
+undefined
+#EXTINF:-1 tvg-name="#EXTINF:-1 group-title="NEWTV"" tvg-logo="https://live.fanmingming.com/tv/#EXTINF:-1 group-title="NEWTV".png",#EXTINF:-1 group-title="NEWTV"
+NewTV超级电影
+#EXTINF:-1 tvg-name="http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8" tvg-logo="https://live.fanmingming.com/tv/http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8.png",http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
+undefined
+#EXTINF:-1 tvg-name="#EXTINF:-1 group-title="NEWTV"" tvg-logo="https://live.fanmingming.com/tv/#EXTINF:-1 group-title="NEWTV".png",#EXTINF:-1 group-title="NEWTV"
+NewTV超级体育
+#EXTINF:-1 tvg-name="http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8" tvg-logo="https://live.fanmingming.com/tv/http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8.png",http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
+undefined
+#EXTINF:-1 tvg-name="#EXTINF:-1 group-title="NEWTV"" tvg-logo="https://live.fanmingming.com/tv/#EXTINF:-1 group-title="NEWTV".png",#EXTINF:-1 group-title="NEWTV"
+NewTV超级综艺
+#EXTINF:-1 tvg-name="http://39.134.66.66/PLTV/88888888/224/3221225642/index.m3u8" tvg-logo="https://live.fanmingming.com/tv/http://39.134.66.66/PLTV/88888888/224/3221225642/index.m3u8.png",http://39.134.66.66/PLTV/88888888/224/3221225642/index.m3u8
+undefined
+#EXTINF:-1 tvg-name="#EXTINF:-1 group-title="NEWTV"" tvg-logo="https://live.fanmingming.com/tv/#EXTINF:-1 group-title="NEWTV".png",#EXTINF:-1 group-title="NEWTV"
+NewTV潮妈辣婆
+#EXTINF:-1 tvg-name="http://39.134.66.66/PLTV/88888888/224/3221225542/index.m3u8" tvg-logo="https://live.fanmingming.com/tv/http://39.134.66.66/PLTV/88888888/224/3221225542/index.m3u8.png",http://39.134.66.66/PLTV/88888888/224/3221225542/index.m3u8
+undefined
+#EXTINF:-1 tvg-name="#EXTINF:-1 group-title="NEWTV"" tvg-logo="https://live.fanmingming.com/tv/#EXTINF:-1 group-title="NEWTV".png",#EXTINF:-1 group-title="NEWTV"
+NewTV东北热剧
+#EXTINF:-1 tvg-name="http://39.134.66.66/PLTV/88888888/224/3221225679/index.m3u8" tvg-logo="https://live.fanmingming.com/tv/http://39.134.66.66/PLTV/88888888/224/3221225679/index.m3u8.png",http://39.134.66.66/PLTV/88888888/224/3221225679/index.m3u8
+undefined
+#EXTINF:-1 tvg-name="#EXTINF:-1 group-title="NEWTV"" tvg-logo="https://live.fanmingming.com/tv/#EXTINF:-1 group-title="NEWTV".png",#EXTINF:-1 group-title="NEWTV"
+NewTV动作电影
+#EXTINF:-1 tvg-name="http://39.134.66.66/PLTV/88888888/224/3221225555/index.m3u8" tvg-logo="https://live.fanmingming.com/tv/http://39.134.66.66/PLTV/88888888/224/3221225555/index.m3u8.png",http://39.134.66.66/PLTV/88888888/224/3221225555/index.m3u8
+undefined
+#EXTINF:-1 tvg-name="#EXTINF:-1 group-title="NEWTV"" tvg-logo="https://live.fanmingming.com/tv/#EXTINF:-1 group-title="NEWTV".png",#EXTINF:-1 group-title="NEWTV"
+NewTV古装剧场
+#EXTINF:-1 tvg-name="http://39.134.66.66/PLTV/88888888/224/3221225524/index.m3u8" tvg-logo="https://live.fanmingming.com/tv/http://39.134.66.66/PLTV/88888888/224/3221225524/index.m3u8.png",http://39.134.66.66/PLTV/88888888/224/3221225524/index.m3u8
+undefined
+#EXTINF:-1 tvg-name="#EXTINF:-1 group-title="NEWTV"" tvg-logo="https://live.fanmingming.com/tv/#EXTINF:-1 group-title="NEWTV".png",#EXTINF:-1 group-title="NEWTV"
+NewTV家庭剧场
+#EXTINF:-1 tvg-name="http://39.134.66.66/PLTV/88888888/224/3221225538/index.m3u8" tvg-logo="https://live.fanmingming.com/tv/http://39.134.66.66/PLTV/88888888/224/3221225538/index.m3u8.png",http://39.134.66.66/PLTV/88888888/224/3221225538/index.m3u8
+undefined
+#EXTINF:-1 tvg-name="#EXTINF:-1 group-title="NEWTV"" tvg-logo="https://live.fanmingming.com/tv/#EXTINF:-1 group-title="NEWTV".png",#EXTINF:-1 group-title="NEWTV"
+NewTV金牌综艺
+#EXTINF:-1 tvg-name="http://39.134.66.66/PLTV/88888888/224/3221225525/index.m3u8" tvg-logo="https://live.fanmingming.com/tv/http://39.134.66.66/PLTV/88888888/224/3221225525/index.m3u8.png",http://39.134.66.66/PLTV/88888888/224/3221225525/index.m3u8
+undefined
+#EXTINF:-1 tvg-name="#EXTINF:-1 group-title="NEWTV"" tvg-logo="https://live.fanmingming.com/tv/#EXTINF:-1 group-title="NEWTV".png",#EXTINF:-1 group-title="NEWTV"
+NewTV精品大剧
+#EXTINF:-1 tvg-name="http://39.134.66.66/PLTV/88888888/224/3221225536/index.m3u8" tvg-logo="https://live.fanmingming.com/tv/http://39.134.66.66/PLTV/88888888/224/3221225536/index.m3u8.png",http://39.134.66.66/PLTV/88888888/224/3221225536/index.m3u8
+undefined
+#EXTINF:-1 tvg-name="#EXTINF:-1 group-title="NEWTV"" tvg-logo="https://live.fanmingming.com/tv/#EXTINF:-1 group-title="NEWTV".png",#EXTINF:-1 group-title="NEWTV"
+NewTV精品体育
+#EXTINF:-1 tvg-name="http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8" tvg-logo="https://live.fanmingming.com/tv/http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8.png",http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
+undefined
+#EXTINF:-1 tvg-name="#EXTINF:-1 group-title="NEWTV"" tvg-logo="https://live.fanmingming.com/tv/#EXTINF:-1 group-title="NEWTV".png",#EXTINF:-1 group-title="NEWTV"
+NewTV军旅剧场
+#EXTINF:-1 tvg-name="http://39.134.66.66/PLTV/88888888/224/3221225560/index.m3u8" tvg-logo="https://live.fanmingming.com/tv/http://39.134.66.66/PLTV/88888888/224/3221225560/index.m3u8.png",http://39.134.66.66/PLTV/88888888/224/3221225560/index.m3u8
+undefined
+#EXTINF:-1 tvg-name="#EXTINF:-1 group-title="NEWTV"" tvg-logo="https://live.fanmingming.com/tv/#EXTINF:-1 group-title="NEWTV".png",#EXTINF:-1 group-title="NEWTV"
+NewTV军事评论
+#EXTINF:-1 tvg-name="http://39.134.66.66/PLTV/88888888/224/3221225535/index.m3u8" tvg-logo="https://live.fanmingming.com/tv/http://39.134.66.66/PLTV/88888888/224/3221225535/index.m3u8.png",http://39.134.66.66/PLTV/88888888/224/3221225535/index.m3u8
+undefined
+#EXTINF:-1 tvg-name="#EXTINF:-1 group-title="NEWTV"" tvg-logo="https://live.fanmingming.com/tv/#EXTINF:-1 group-title="NEWTV".png",#EXTINF:-1 group-title="NEWTV"
+NewTV明星大片
+#EXTINF:-1 tvg-name="http://39.134.66.66/PLTV/88888888/224/3221225550/index.m3u8" tvg-logo="https://live.fanmingming.com/tv/http://39.134.66.66/PLTV/88888888/224/3221225550/index.m3u8.png",http://39.134.66.66/PLTV/88888888/224/3221225550/index.m3u8
+undefined
+#EXTINF:-1 tvg-name="#EXTINF:-1 group-title="NEWTV"" tvg-logo="https://live.fanmingming.com/tv/#EXTINF:-1 group-title="NEWTV".png",#EXTINF:-1 group-title="NEWTV"
+NewTV农业致富
+#EXTINF:-1 tvg-name="http://39.134.66.66/PLTV/88888888/224/3221225552/index.m3u8" tvg-logo="https://live.fanmingming.com/tv/http://39.134.66.66/PLTV/88888888/224/3221225552/index.m3u8.png",http://39.134.66.66/PLTV/88888888/224/3221225552/index.m3u8
+undefined
+#EXTINF:-1 tvg-name="#EXTINF:-1 group-title="NEWTV"" tvg-logo="https://live.fanmingming.com/tv/#EXTINF:-1 group-title="NEWTV".png",#EXTINF:-1 group-title="NEWTV"
+NewTV武搏世界
+#EXTINF:-1 tvg-name="http://39.134.66.66/PLTV/88888888/224/3221225547/index.m3u8" tvg-logo="https://live.fanmingming.com/tv/http://39.134.66.66/PLTV/88888888/224/3221225547/index.m3u8.png",http://39.134.66.66/PLTV/88888888/224/3221225547/index.m3u8
+undefined
+#EXTINF:-1 tvg-name="#EXTINF:-1 group-title="NEWTV"" tvg-logo="https://live.fanmingming.com/tv/#EXTINF:-1 group-title="NEWTV".png",#EXTINF:-1 group-title="NEWTV"
+NewTV炫舞未来
+#EXTINF:-1 tvg-name="http://39.134.66.66/PLTV/88888888/224/3221225646/index.m3u8" tvg-logo="https://live.fanmingming.com/tv/http://39.134.66.66/PLTV/88888888/224/3221225646/index.m3u8.png",http://39.134.66.66/PLTV/88888888/224/3221225646/index.m3u8
+undefined
+#EXTINF:-1 tvg-name="#EXTINF:-1 group-title="NEWTV"" tvg-logo="https://live.fanmingming.com/tv/#EXTINF:-1 group-title="NEWTV".png",#EXTINF:-1 group-title="NEWTV"
+NewTV怡伴健康
+#EXTINF:-1 tvg-name="http://39.134.66.66/PLTV/88888888/224/3221225571/index.m3u8" tvg-logo="https://live.fanmingming.com/tv/http://39.134.66.66/PLTV/88888888/224/3221225571/index.m3u8.png",http://39.134.66.66/PLTV/88888888/224/3221225571/index.m3u8
+undefined
+#EXTINF:-1 tvg-name="#EXTINF:-1 group-title="NEWTV"" tvg-logo="https://live.fanmingming.com/tv/#EXTINF:-1 group-title="NEWTV".png",#EXTINF:-1 group-title="NEWTV"
+NewTV中国功夫
+#EXTINF:-1 tvg-name="http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8" tvg-logo="https://live.fanmingming.com/tv/http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8.png",http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
+undefined
+
 #EXTINF:-1 group-title="体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png",新视觉HD
 http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png",新视觉
