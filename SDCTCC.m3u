@@ -171,45 +171,119 @@ http://150.138.8.143/00/SNM/CHANNEL00000661/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000333/index.m3u8
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实【1080P】
 http://150.138.8.143/00/SNM/CHANNEL00000334/index.m3u8
-#EXTINF:-1 tvg-id="海洋频道" tvg-name="海洋频道" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/haiyangpindao.png" group-title="山东",海洋频道
-http://150.138.8.143/00/SNM/CHANNEL00000662/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",看海剧场
-http://150.138.8.143/00/SNM/CHANNEL00000403/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",看海热播
-http://150.138.8.143/00/SNM/CHANNEL00000405/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",看海大片高清
-http://150.138.8.143/00/SNM/CHANNEL00000407/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",海看爱宠高清
-http://150.138.8.143/00/SNM/CHANNEL00000202/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",海看少儿
-http://150.138.8.143/00/SNM/CHANNEL00000402/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",海看电竞
-http://150.138.8.143/00/SNM/CHANNEL00000408/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/YJIATV/YJIATV.jpg?1" group-title="影视",iHOT Y+频道
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
-
-#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕1
-http://39.134.67.108/PLTV/88888888/224/3221226046/index.m3u8
-#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕2
-http://39.134.67.108/PLTV/88888888/224/3221226031/index.m3u8
-#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕3
-http://39.134.67.108/PLTV/88888888/224/3221226027/index.m3u8
-#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕4
-http://39.134.67.108/PLTV/88888888/224/3221225897/index.m3u8
-#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕5
-http://39.134.67.108/PLTV/88888888/224/3221225895/index.m3u8
-#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕6
-http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226240/index.m3u8
-#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕7
-http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227189/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕8
-http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227047/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕9
-http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227228/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕10
-http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227107/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕11
-http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227158/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-
+#EXTM3U
+#EXTINF:-1 ,咪咕视频1
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000006000270001/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270001&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕视频2
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000006000270002/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270002&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕视频3
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000006000270003/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270003&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕视频4
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000006000270004/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270004&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕视频5
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000006000270005/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270005&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕视频6
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000006000270006/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270006&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕视频7
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000060/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000060&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕视频8
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000061/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000061&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕视频9
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000062/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000062&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕视频10
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000063/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000063&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕视频11
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000064/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000064&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕视频12
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000065/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000065&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕视频13
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000005308/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕视频14
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000005969/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕视频15
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000007218/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕视频16
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000008001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕视频17
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000008176/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕视频18
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000008379/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕视频19
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000010129/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕视频20
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000010948/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕视频21
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000028638/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕视频22
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000031494/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕视频23
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000000097/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕视频24
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000002019/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕视频25
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000002809/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕视频26
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000003915/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕视频27
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000004193/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕视频28
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000005837/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕视频29
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000006077/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕视频30
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000006658/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕视频31
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000009788/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕视频32
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000010833/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕视频33
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000011297/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕视频34
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000011518/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕视频35
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000012558/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕视频36
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000012616/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕视频37
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000015470/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕视频38
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000015560/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕视频39
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000017678/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕视频40
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000019839/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕视频41
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000021904/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕视频42
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000023434/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕视频43
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000025380/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕视频44
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000027691/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕视频45
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000031669/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕视频46
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000020000011518/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕视频47
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000020000011519/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕视频48
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000020000011520/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕视频49
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000020000011521/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕视频50
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000020000011522/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕视频51
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000020000011523/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕视频52
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000020000011524/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕视频53
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000020000011525/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕视频54
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000020000011528/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕视频55
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000020000011529/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕视频56
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000020000011530/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕视频57
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000020000011531/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=3
 
