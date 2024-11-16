@@ -175,6 +175,51 @@ http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL
 http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000338/index.m3u8
 #EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_zongyi.png",山东综艺
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000338/index.m3u8
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="华数精彩影视 8M1080" tvg-logo="https://live.fanmingming.com/tv/华数精彩影视 8M1080.png",华数精彩影视 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002012/index.m3u8
+#EXTINF:-1 tvg-name="上海纪实人文 8M1080" tvg-logo="https://live.fanmingming.com/tv/上海纪实人文 8M1080.png",上海纪实人文 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000333/index.m3u8
+#EXTINF:-1 tvg-name="湖南金鹰纪实 8M1080" tvg-logo="https://live.fanmingming.com/tv/湖南金鹰纪实 8M1080.png",湖南金鹰纪实 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000334/index.m3u8
+#EXTINF:-1 tvg-name="湖南金鹰卡通 8M1080" tvg-logo="https://live.fanmingming.com/tv/湖南金鹰卡通 8M1080.png",湖南金鹰卡通 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002027/index.m3u8
+#EXTINF:-1 tvg-name="湖南快乐垂钓 8M1080" tvg-logo="https://live.fanmingming.com/tv/湖南快乐垂钓 8M1080.png",湖南快乐垂钓 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000648/index.m3u8
+#EXTINF:-1 tvg-name="湖南茶 8M1080" tvg-logo="https://live.fanmingming.com/tv/湖南茶 8M1080.png",湖南茶 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000649/index.m3u8
+#EXTINF:-1 tvg-name="北京纪实科教 8M1080" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教 8M1080.png",北京纪实科教 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000332/index.m3u8
+#EXTINF:-1 tvg-name="北京卡酷少儿 8M1080" tvg-logo="https://live.fanmingming.com/tv/北京卡酷少儿 8M1080.png",北京卡酷少儿 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000661/index.m3u8
+#EXTINF:-1 tvg-name="河南文物宝库 8M1080" tvg-logo="https://live.fanmingming.com/tv/河南文物宝库 8M1080.png",河南文物宝库 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000658/index.m3u8
+#EXTINF:-1 tvg-name="河南梨园 8M1080" tvg-logo="https://live.fanmingming.com/tv/河南梨园 8M1080.png",河南梨园 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000656/index.m3u8
+#EXTINF:-1 tvg-name="河南武术世界 8M1080" tvg-logo="https://live.fanmingming.com/tv/河南武术世界 8M1080.png",河南武术世界 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000657/index.m3u8
+#EXTINF:-1 tvg-name="SiTV东方财经 8M1080" tvg-logo="https://live.fanmingming.com/tv/SiTV东方财经 8M1080.png",SiTV东方财经 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002025/index.m3u8
+#EXTINF:-1 tvg-name="SiTV乐游 8M1080" tvg-logo="https://live.fanmingming.com/tv/SiTV乐游 8M1080.png",SiTV乐游 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002016/index.m3u8
+#EXTINF:-1 tvg-name="SiTV动漫秀场 8M1080" tvg-logo="https://live.fanmingming.com/tv/SiTV动漫秀场 8M1080.png",SiTV动漫秀场 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002000/index.m3u8
+#EXTINF:-1 tvg-name="SiTV劲爆体育 8M1080" tvg-logo="https://live.fanmingming.com/tv/SiTV劲爆体育 8M1080.png",SiTV劲爆体育 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002026/index.m3u8
+#EXTINF:-1 tvg-name="SiTV法治天地 8M1080" tvg-logo="https://live.fanmingming.com/tv/SiTV法治天地 8M1080.png",SiTV法治天地 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002010/index.m3u8
+#EXTINF:-1 tvg-name="SiTV游戏风云 8M1080" tvg-logo="https://live.fanmingming.com/tv/SiTV游戏风云 8M1080.png",SiTV游戏风云 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002024/index.m3u8
+#EXTINF:-1 tvg-name="SiTV生活时尚 8M1080" tvg-logo="https://live.fanmingming.com/tv/SiTV生活时尚 8M1080.png",SiTV生活时尚 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002019/index.m3u8
+#EXTINF:-1 tvg-name="SiTV都市频道 8M1080" tvg-logo="https://live.fanmingming.com/tv/SiTV都市频道 8M1080.png",SiTV都市频道 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002022/index.m3u8
+#EXTINF:-1 tvg-name="SiTV金色学堂 8M1080" tvg-logo="https://live.fanmingming.com/tv/SiTV金色学堂 8M1080.png",SiTV金色学堂 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002018/index.m3u8
+#EXTINF:-1 tvg-name="SiTV魅力足球 8M1080" tvg-logo="https://live.fanmingming.com/tv/SiTV魅力足球 8M1080.png",SiTV魅力足球 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002021/index.m3u8
+#EXTINF:-1 tvg-name="重庆汽摩 8M1080" tvg-logo="https://live.fanmingming.com/tv/重庆汽摩 8M1080.png",重庆汽摩 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000711/index.m3u8
 #EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE20.jpg",河南梨园
 http://39.134.144.6:8089/PLTV/88888888/224/3221226354/index.m3u8
 #EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WUSHUSHIJIE.jpg",河南武术世界
