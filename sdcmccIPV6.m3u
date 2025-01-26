@@ -252,116 +252,14 @@ http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.
 #EXTINF:-1 tvg-name="山东经济广播" tvg-logo="https://live.fanmingming.cn/tv/山东经济广播.png",山东经济广播
 http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00003001/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-name="海看演艺" tvg-logo="https://live.fanmingming.cn/tv/海看演艺.png",海看演艺
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000400/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="济南新闻综合" tvg-logo="https://live.fanmingming.cn/tv/济南新闻综合.png",济南新闻综合
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00004000/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="潍坊影视综艺" tvg-logo="https://live.fanmingming.cn/tv/潍坊影视综艺.png",潍坊影视综艺
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000217/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="潍坊新闻综合" tvg-logo="https://live.fanmingming.cn/tv/潍坊新闻综合.png",潍坊新闻综合
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000215/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="潍坊科教文旅" tvg-logo="https://live.fanmingming.cn/tv/潍坊科教文旅.png",潍坊科教文旅
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000218/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="潍坊经济生活" tvg-logo="https://live.fanmingming.cn/tv/潍坊经济生活.png",潍坊经济生活
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000216/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="潍坊高新区" tvg-logo="https://live.fanmingming.cn/tv/潍坊高新区.png",潍坊高新区
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00001106/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="乳山综合" tvg-logo="https://live.fanmingming.cn/tv/乳山综合.png",乳山综合
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00001049/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="五莲新闻综合" tvg-logo="https://live.fanmingming.cn/tv/五莲新闻综合.png",五莲新闻综合
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00001068/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="即墨新闻综合" tvg-logo="https://live.fanmingming.cn/tv/即墨新闻综合.png",即墨新闻综合
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00001080/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="威海新闻综合" tvg-logo="https://live.fanmingming.cn/tv/威海新闻综合.png",威海新闻综合
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000274/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="威海公共" tvg-logo="https://live.fanmingming.cn/tv/威海公共.png",威海公共
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000275/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="奎文综合" tvg-logo="https://live.fanmingming.cn/tv/奎文综合.png",奎文综合
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00001027/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="安丘综合" tvg-logo="https://live.fanmingming.cn/tv/安丘综合.png",安丘综合
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00001015/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="寿光综合" tvg-logo="https://live.fanmingming.cn/tv/寿光综合.png",寿光综合
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00001000/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="寿光蔬菜" tvg-logo="https://live.fanmingming.cn/tv/寿光蔬菜.png",寿光蔬菜
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00001045/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="岚山综合" tvg-logo="https://live.fanmingming.cn/tv/岚山综合.png",岚山综合
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00001044/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="崂山综合" tvg-logo="https://live.fanmingming.cn/tv/崂山综合.png",崂山综合
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00001022/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="平度综合" tvg-logo="https://live.fanmingming.cn/tv/平度综合.png",平度综合
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00001054/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="德州公共" tvg-logo="https://live.fanmingming.cn/tv/德州公共.png",德州公共
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000207/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="文登综合" tvg-logo="https://live.fanmingming.cn/tv/文登综合.png",文登综合
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00001017/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="新泰综合" tvg-logo="https://live.fanmingming.cn/tv/新泰综合.png",新泰综合
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00001029/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="日照新闻综合" tvg-logo="https://live.fanmingming.cn/tv/日照新闻综合.png",日照新闻综合
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000262/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="日照科技生活" tvg-logo="https://live.fanmingming.cn/tv/日照科技生活.png",日照科技生活
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000263/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="昌乐综合" tvg-logo="https://live.fanmingming.cn/tv/昌乐综合.png",昌乐综合
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00001033/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="栖霞综合" tvg-logo="https://live.fanmingming.cn/tv/栖霞综合.png",栖霞综合
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00001055/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="武城新闻综合" tvg-logo="https://live.fanmingming.cn/tv/武城新闻综合.png",武城新闻综合
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00001059/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="烟台公共" tvg-logo="https://live.fanmingming.cn/tv/烟台公共.png",烟台公共
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000281/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="烟台影视" tvg-logo="https://live.fanmingming.cn/tv/烟台影视.png",烟台影视
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000283/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="烟台新闻综合" tvg-logo="https://live.fanmingming.cn/tv/烟台新闻综合.png",烟台新闻综合
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000280/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="烟台经济科技" tvg-logo="https://live.fanmingming.cn/tv/烟台经济科技.png",烟台经济科技
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000282/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="牟平新闻" tvg-logo="https://live.fanmingming.cn/tv/牟平新闻.png",牟平新闻
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00001076/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="牟平生活" tvg-logo="https://live.fanmingming.cn/tv/牟平生活.png",牟平生活
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00001077/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="荣成综合" tvg-logo="https://live.fanmingming.cn/tv/荣成综合.png",荣成综合
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00001053/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="莒县综合" tvg-logo="https://live.fanmingming.cn/tv/莒县综合.png",莒县综合
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00001014/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="莱西综合" tvg-logo="https://live.fanmingming.cn/tv/莱西综合.png",莱西综合
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00001067/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="诸城综合" tvg-logo="https://live.fanmingming.cn/tv/诸城综合.png",诸城综合
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00001004/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="青岛1" tvg-logo="https://live.fanmingming.cn/tv/青岛1.png",青岛1
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000500/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="青岛2" tvg-logo="https://live.fanmingming.cn/tv/青岛2.png",青岛2
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000501/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="青岛3" tvg-logo="https://live.fanmingming.cn/tv/青岛3.png",青岛3
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000502/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="青岛4" tvg-logo="https://live.fanmingming.cn/tv/青岛4.png",青岛4
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000503/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="青岛5" tvg-logo="https://live.fanmingming.cn/tv/青岛5.png",青岛5
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000504/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="青岛6" tvg-logo="https://live.fanmingming.cn/tv/青岛6.png",青岛6
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000505/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="青州文化旅游" tvg-logo="https://live.fanmingming.cn/tv/青州文化旅游.png",青州文化旅游
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00001057/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="青州综合" tvg-logo="https://live.fanmingming.cn/tv/青州综合.png",青州综合
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00001042/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="龙口综合" tvg-logo="https://live.fanmingming.cn/tv/龙口综合.png",龙口综合
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00001005/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="招远综合" tvg-logo="https://live.fanmingming.cn/tv/招远综合.png",招远综合
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00001113/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="胶州综合" tvg-logo="https://live.fanmingming.cn/tv/胶州综合.png",胶州综合
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00001074/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="聊城综合" tvg-logo="https://live.fanmingming.cn/tv/聊城综合.png",聊城综合
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00001083/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="临朐综合" tvg-logo="https://live.fanmingming.cn/tv/临朐综合.png",临朐综合
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00001085/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="西海岸综合" tvg-logo="https://live.fanmingming.cn/tv/西海岸综合.png",西海岸综合
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00001086/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="西海岸生活" tvg-logo="https://live.fanmingming.cn/tv/西海岸生活.png",西海岸生活
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00001087/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="蓬莱综合" tvg-logo="https://live.fanmingming.cn/tv/蓬莱综合.png",蓬莱综合
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00001088/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="高密综合" tvg-logo="https://live.fanmingming.cn/tv/高密综合.png",高密综合
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00001089/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="长岛新闻" tvg-logo="https://live.fanmingming.cn/tv/长岛新闻.png",长岛新闻
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00001090/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="海阳新闻" tvg-logo="https://live.fanmingming.cn/tv/海阳新闻.png",海阳新闻
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00001091/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="海阳综合" tvg-logo="https://live.fanmingming.cn/tv/海阳综合.png",海阳综合
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00001092/index.m3u8?IASHttpSessionId=
+
+#EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/咪咕直播-11.png",咪咕直播-11
+http://[2409:8087:1a01:df::402a]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
+#EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/咪咕直播-34.png",咪咕直播-34
+http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
+#EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/咪咕直播-32.png",咪咕直播-32
+http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+#EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/咪咕直播-12.png",咪咕直播-12
+http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
+#EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/咪咕直播-42.png",咪咕直播-42
+http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
