@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml,https://e.erw.cc/e.xml,http://epg.51zmt.top:8000/e.xml " catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1  tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png",CCTV1
 http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000311/index.m3u8?IASHttpSessionId=
 #EXTINF:-1  tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png",CCTV2
