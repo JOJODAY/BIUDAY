@@ -51,6 +51,12 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002029/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index.m3u8
 #EXTINF:-1  tvg-logo="https://live.fanmingming.cn/tv/重温经典影视.png",重温经典影视
 http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL20000003/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="央视",邵氏电影
+http://192.151.150.154/live/lbssdy.m3u8
+#EXTINF:-1 group-title="央视",邵氏武侠
+http://192.151.150.154/live/lbsswx.m3u8
+#EXTINF:-1 group-title="央视",邵氏动作
+http://192.151.150.154/live/lbssdz.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CGTN.png",CGTN
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000352/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png",CGTN纪录
