@@ -41,13 +41,13 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000382/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000350/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV4美洲.png" group-title="央视频道" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000351/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,CCTV4美洲
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000351/index.m3u8
-#EXTINF:-1 tvg-name="重温经典影视" tvg-logo="https://live.fanmingming.cn/tv/重温经典影视.png" group-title="央视频道" ,重温经典影视
+#EXTINF:-1 tvg-name="重温经典影视" tvg-logo="https://live.fanmingming.cn/tv/重温经典影视.png" group-title="央视频道" catchup-source="http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL20000003/index.m3u8?IASHttpSessionId=?startTime=${(b)10}&endTime=${(e)10}",重温经典影视
 http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL20000003/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="邵氏电影" group-title="央视频道" ,邵氏电影
+#EXTINF:-1 tvg-name="邵氏电影" group-title="央视频道" catchup-source="http://192.151.150.154/live/lbssdy.m3u8?startTime=${(b)10}&endTime=${(e)10}",邵氏电影
 http://192.151.150.154/live/lbssdy.m3u8
-#EXTINF:-1 tvg-name="邵氏武侠" group-title="央视频道" ,邵氏武侠
+#EXTINF:-1 tvg-name="邵氏武侠" group-title="央视频道" catchup-source="http://192.151.150.154/live/lbsswx.m3u8?startTime=${(b)10}&endTime=${(e)10}",邵氏武侠
 http://192.151.150.154/live/lbsswx.m3u8
-#EXTINF:-1 tvg-name="邵氏动作" group-title="央视频道" ,邵氏动作
+#EXTINF:-1 tvg-name="邵氏动作" group-title="央视频道" catchup-source="http://192.151.150.154/live/lbssdz.m3u8?startTime=${(b)10}&endTime=${(e)10}",邵氏动作
 http://192.151.150.154/live/lbssdz.m3u8
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东卫视.png" group-title="山东频道" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000301/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,山东卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000301/index.m3u8
